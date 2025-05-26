@@ -1,0 +1,1117 @@
+model_id,name
+1,Audi A3 hatchback
+2,Audi A4L
+3,Audi A6L
+4,Audi Q3
+5,Audi Q5
+6,Audi A6
+7,Audi A3 sedan
+8,Audi RS5
+10,Audi RS4
+11,Audi RS Q3
+12,Audi RS3
+13,Audi TT RS
+19,Audi A5 hatchback
+20,Audi A6 hybrid
+21,Audi A7
+22,Audi A8L
+23,Audi A8L hybrid
+24,Audi Q5 hybrid
+25,Audi Q7
+26,Audi R8
+27,Audi S5 convertible
+28,Audi S5 coupe
+29,Audi S5 hatchback
+30,Audi S7
+31,Audi S8
+32,Audi SQ5
+33,Audi TTS convertible
+34,Audi TTS coupe
+35,Audi TT convertible
+36,Audi TT coupe
+37,Audi A2
+38,Audi quattro
+39,Audi Urban
+40,Audi Cross
+41,Audi e-tron
+42,Audi S3 hatchback
+43,Audi R18
+44,Audi A3 convertible
+45,Audi A3 e-tron
+51,Nanuk
+54,BWM 3 Series
+58,BWM M3 coupe
+59,BWM M3
+64,BWM X5 M
+68,BWM 1 Series couple
+69,BWM 2 Series
+70,BWM 3 Series GT
+71,BWM 3 Series convertible
+72,BWM 3 Series hybrid
+73,BWM 3 Series estate
+74,BWM 3 Series coupe
+75,BWM 4 Series convertible
+76,BWM 4 Series couple
+77,BWM 4 Series
+78,BWM 5 Series GT
+79,BWM 5 Series hybrid
+80,BWM 5 Series estate
+81,BWM 6 Series convertible
+82,BWM 6 Series couple
+83,BWM 6 Series
+84,BWM 7 Series
+85,BWM 7 Series hybrid
+86,BWM X3
+87,BWM X4
+88,BWM X5
+89,BWM X6
+90,BWM X6 Series hybrid
+91,BWM Z4
+92,BWM i3
+93,BWM i8
+94,ConnectedDrive
+95,EfficientDynamics
+96,Active Tourer
+97,Isetta
+98,BWM 1 Series hatchback
+99,Zagato Coupe
+100,Gran Lusso
+101,BWM GINA
+102,BWM 2 Series Active Tourer
+103,Vision Future Luxury
+104,Benz C Class
+105,Benz C Class hybird
+106,Benz GLK Class
+107,Benz E Class
+108,Benz A Class AMG
+109,Benz CLS Class AMG
+110,Benz C Class AMG
+111,Benz GL Class AMG
+116,Benz SL Class AMG
+117,Benz S Class AMG
+118,Benz E Class AMG
+124,Sprinter
+126,Wei Ting
+127,Benz A Class
+128,Benz CLA Class
+129,Benz CLS Class
+130,Benz CLS Class Shooting Brake
+131,Benz C Class estate
+132,Benz E Class convertible
+133,Benz E Class couple
+134,Benz GL Class
+135,Benz G Class
+136,Benz M Class
+137,Benz R Class
+143,Style Coupe
+144,BlueZero
+145,Benz Citan
+146,Benz F800
+147,Benz F125
+148,Benz GLA Class
+149,Benz E Class estate
+150,Biome
+151,Silver Arrow
+152,Benz S Class coupe
+153,Coupe SUV
+154,Benz B Class
+155,Ener-G-Force
+156,Benz V Class
+157,Unimog
+158,encore
+159,Buick GL8 Luxury Business
+160,Buick GL8 Business
+161,Regal
+162,Regal GS
+163,Lacrosse
+164,Lacrosse eAssist
+165,Exclle
+166,Park Avenue
+171,Enclave
+172,Buick Encore
+173,Buick Business
+177,City
+182,Fit
+186,Honda Legend
+187,Honda S2000
+188,Honda Urban
+189,Honda Gear
+190,Honda NSX
+191,Honda CONCEPT M
+192,Honda EV-Ster
+193,Honda Ridgeline
+194,Honda Step Bus
+195,Honda AC-x
+196,Honda FCX
+197,Honda HSV-010 GT
+198,Honda N BOX
+199,Honda ONE
+201,Honda SUT
+202,Honda Brio
+203,Honda S660
+205,Honda HR-V
+209,Spirior
+210,Civic
+211,Honda CR-V
+212,CROSS 207
+215,Peugeot 207 sedan
+216,Peugeot 3008
+217,Peugeot 301
+220,Peugeot 308
+224,Peugeot 207CC
+225,Peugeot 308SW
+237,Peugeot HX1
+238,Peugeot iON
+244,Peugeot 308CC
+245,BYD F0
+246,BYD F3DM
+247,BYD F3R
+248,BYD F6
+249,BYD G3
+250,BYD G3R
+251,BYD G5
+252,BYD G6
+255,BYD S6
+256,BYD S7
+257,BYD e6
+259,Si Rui
+260,Su Rui
+261,BYD F3
+262,Boxster
+263,Macan
+264,Panamera
+265,Panamera hybrid
+266,Porsche 911
+267,Porsche 918
+268,Canyenne
+269,Canyenne hybrid
+270,Carrera GT
+274,BAW BJ40
+275,BAW E Series sedan
+276,BAW C60
+277,BAW C71
+278,BAW B61
+279,BAW C30
+293,Huansu S2
+294,Huansu S3
+295,Weiwang 205
+296,Weiwang 307
+297,Weiwang M20
+298,Weiwang 306
+299,BAW E150 EV
+300,BJ212
+301,Luba
+302,Luling
+303,Qishi
+304,Ruiling
+306,Yusheng 007
+307,Yueling
+308,Juedoushi
+309,Besturn B50
+310,Besturn B90
+311,Besturn X80
+312,Besturn B70
+313,Flying Spur
+314,Super Sport
+315,Bentley Falcon
+316,Brooklands
+317,Arnage
+318,Mulsanne
+319,Veyron
+320,Galibier
+321,Great Wall C20R
+322,Great Wall C50
+326,Great Wall V80
+327,Wingle 3
+328,Wingle 5
+340,Benben MINI
+341,Changan CS35
+342,Changan CS75
+343,Changan CX20
+344,Changan CS30 hatchback
+345,Changan CS30 sedan
+346,Yidong
+347,Yuexiang V3
+348,Yuexiang V5
+349,Yuexiang hatchback
+350,Yuexiang sedan
+351,Zhishang XT
+352,Ruiping
+353,Zhixiang
+354,Changan SENSE
+355,Changan CS95
+356,Changan VOSS
+357,Benben LOVE
+358,Changan Ounuo
+359,Changan Xiaoka
+360,Changan Xingka
+361,Changan Star
+362,Changan Star 7
+363,Changan Star S460
+364,Oulove
+365,Zunxing
+366,Ruixing
+367,Changan Shenqi
+368,Ideal
+369,Funyun
+371,Cross Polo
+374,GOL
+375,Cross Lavida
+377,Lavide
+378,Passat
+379,Passat Lingyu
+380,Santana
+381,Santana Vista
+382,Touran
+383,Tiguan
+384,NMC
+385,Polo GTI
+386,Cross Golf
+388,Volkswagen R36
+389,Golf GTI convertible
+390,Golf R
+391,Golf R convertible
+392,Golf convertible
+395,Beetle
+396,Caravelle
+397,Multivan
+398,Magotan estate
+399,Scirocco
+400,Scirocco R
+401,Touareg
+402,Touareg hybrid
+403,Sharan
+404,Polo abroad version
+405,BlueSport
+406,Beetle convertible
+407,Variant
+408,Amarok Pickup
+409,Cross Coupe
+410,E-Bugster
+411,Passat abroad version
+412,CrossBlue
+413,Volkswagen XL1
+415,Buggy Up
+418,Routan
+419,Taigun
+420,Volkswagen  Up!Lite
+421,T-ROC
+422,Tiguan abroad version
+423,e-Co-Motion
+424,Milano
+425,Nils
+426,Space Up
+427,Volkswagen up
+430,Bora
+431,Golf
+432,Golf GTI
+433,Jetta
+434,Magotan
+435,Sagitar
+436,Sagitar GLI
+438,DS 5
+439,DS 6
+440,DS 5LS
+441,DS 3
+442,DS Wild Rubis
+443,DS 9
+444,DS 4
+445,Ram
+446,Journey
+447,Challenger
+448,Durango
+450,Dart
+451,Charger
+452,Viper
+453,Circuit EV
+454,Rampage
+455,Dodge M80
+456,Nitro
+457,Charger SRT
+458,Challenger SRT
+459,Viper SRT
+460,Caliber
+461,V3 Lingyue
+462,V6 Lingyue
+463,Delica
+464,Xiwang
+465,Northeast V4
+466,Northeast V7
+467,V5 Lingzhi
+468,Junfeng CV03
+469,Dongfeng HUV
+473,Jingyi SUV
+480,Fengshen H30
+488,Junfeng
+489,DFSK C37
+491,DFSK K07II
+499,Fiesta sedan
+500,Classic Focus hatchback
+501,Classic Focus sedan
+502,S-MAX
+503,New Focus hatchback
+504,New Focus sedan
+505,Ecosport
+506,Kuga
+507,Mendeo Zhisheng
+508,Mendeo
+509,Fiesta hatchback
+510,Transit
+511,Focus ST
+512,Ford F-150
+513,Ford F-250
+516,Fiesta ST
+517,Edge
+518,Explorer
+519,Mustang
+533,Ranger
+534,Territory
+536,Tourneo Custom
+537,Vertrek
+539,S-MAX abroad version
+541,Expedition
+542,Super Duty
+543,Focus abroad version
+546,Formula
+547,Taurus
+548,Feixiang
+549,Zhiyue
+551,Bravo
+552,FIAT 500C
+553,Freemont
+554,Linea
+555,Punto
+556,FIAT Fiorino Qubo
+557,Doblo
+558,FIAT 500L
+559,FIAT Idea
+561,FIAT Strada
+562,FIAT Uno
+563,FIAT 126P
+564,FIAT 500
+565,California
+566,Ferrari 458
+567,Ferrari 599
+568,Ferrari FF
+569,LaFerrari
+570,Sergio
+571,F12berlinetta
+572,Qiteng M70
+573,Chuanqi GA3
+574,Chuanqi GA5
+575,Chuanqi GS5
+576,E-jet
+577,e-linker
+578,Cabrio-Coupe
+579,Trumpchi GA3S horizon
+580,GMC3500
+581,Yukon
+582,Terrain
+584,Acadia
+586,Savana
+587,Haval H3
+588,Haval H5
+589,Haval H6
+590,Haval H8
+591,Haval π
+592,Haval IF
+594,Haval E
+595,Haval H2
+596,FOS
+597,Haima Prince
+598,Haima Me
+599,Haima C2
+600,Haima C3
+601,Baimawangzi
+602,Qiangwawangzi
+603,Haimaaishang
+604,Junyi
+605,Zunludabawang
+606,Zunluxiaobawang
+607,Minyi
+608,Saima
+614,Huanghai Challenger
+615,Qisheng F1
+637,Gaguar XJ
+639,Gaguar C-X75
+641,Gaguar E-TYPE
+642,Gaguar C-X17
+644,Gaguar XF
+645,Aifei
+646,Jiulong A5
+647,Jiulong A6
+652,Cadillac ATS-L
+658,Cadillac ELR
+660,Elmiraj
+661,Koenigsegg Agera
+662,Koenigsegg CCR
+663,One_1
+664,Koenigsegg CCXR
+665,Renault Scenic
+666,Wind Lang
+667,Koleos
+670,Megan Aa
+671,Tower Siman
+672,Latitude
+673,Cleo
+674,Reno Wind
+675,Reno Captur
+679,Reno Symbol
+680,Reno R-Space
+681,Reno Twingo
+688,Landwind X8
+689,Landwind X5
+690,Lincoln MKS
+691,Lincoln MKT
+692,Lincoln MKX
+693,Lincoln MKZ
+697,Lorinser S Class
+698,Lorinser C Class
+699,Lorinser G Class
+707,MINI E
+708,MINI CLUBVAN
+709,MINI BEACHCOMBER
+710,MINI VISION
+711,MINI Superleggera
+712,MINI CABRIO
+713,MINI JCW
+714,MINI JCW COUNTRYMAN
+715,MINI JCW COUPE
+716,MINI JCW PACEMAN
+717,Morgan Plus 8
+718,Morgan 4-4
+719,Morgan Aero
+720,Oley hatchback
+721,Oley sedan
+722,Murano
+723,X-Trail
+724,Teana
+725,New Sylphy
+726,Sylphy
+727,Sunshine
+728,Yida
+729,Qashqai
+730,Livina
+731,Tiida
+732,Ma Chi
+733,Paladin
+734,Nissan D22 Pickup
+735,Nissan D22 Cargo
+736,Nissan NV200
+737,Palazzi
+738,Bilian
+740,Nissan GT-R
+743,Nissan Cube
+744,Nissan NUVU
+745,Leaf
+746,Pathfinder
+747,Versa
+750,Extrem
+751,DeltaWing
+756,Terra
+757,Titan
+758,Nissan NV3500
+760,Rogue
+761,BladeGlider
+762,Sports Sedan
+763,Pulsar
+765,Quest
+766,IDX
+767,Lannia Concept
+768,Navara
+769,Altima
+770,Fabia
+771,Octavia
+772,Octavia RS
+774,Yeti
+775,Haorui
+779,Yeti abroad version
+780,Citigo
+782,Roomster
+784,Octavia RS abroad version
+785,Vision D
+786,VisionC
+787,CitiJet
+788,Superb Derivative
+789,Actyon
+790,Rexton
+791,Rexton W
+792,Rodius
+793,Kyron
+806,WeaLink H3
+807,WeaLink V5
+808,WeaLink X5
+809,i30
+810,ix35
+811,Avante
+812,Sonata
+813,Mistra
+814,Moinca
+815,Santafe
+816,Rena
+817,Verna
+818,Sonata 8
+819,Tucson
+820,Accent
+827,Genesis
+828,Rohens
+829,Rohens Coupe
+830,Veracruz
+831,Equus
+832,Grandeur
+834,Tucson abroad vresion
+839,Hyundai HND-9
+840,Blue2
+841,Curb
+842,Hexa Space
+843,Nuvis
+844,ix20
+845,Hyundai RB
+847,Accent abroad version
+850,Veloster
+851,ESQ
+853,Infiniti Q50 hybrid
+854,Infiniti Q60
+855,Infiniti Q60S
+856,Infiniti Q70L
+857,Infiniti Q70L hybrid
+859,Infiniti QX60
+860,Infiniti Q60 hybrid
+861,Infiniti QX70
+862,Infiniti QX80
+863,Essence
+864,Emerg-E
+865,Etherea
+866,Infiniti LE
+867,Infiniti Q30
+868,Infiniti Q40
+870,Infiniti Q50L
+871,Jiangnan TT
+872,Zotye 5008
+873,Zotye M300
+874,Zotye T200
+878,Zotye Z200
+880,Zotye Z300
+881,Zhidou E20
+882,Dokker
+886,Lodgy
+895,V12 Vantage
+898,Virage
+900,ONE-77
+905,DBS
+910,Weizhi V5
+911,Weizi
+912,Xiali N5
+913,Xiali N7
+914,Xiali hatchback
+915,Xiali sedan
+916,FAW NH2
+917,FAW NS2
+918,FAW TFC
+919,FAW X121
+922,Jiabao T57
+925,Jiabao V70
+928,Senya S80
+929,Jiabao T51
+932,Vauxhall Adam
+933,Vauxhall Cascada
+934,Vauxhall Corsa
+935,Vauxhall Insignia
+936,Vauxhall Meriva
+937,Vauxhall Mokka
+938,Vauxhall VXR8
+944,ABT A6
+946,ABT TT
+948,ABT Q3
+952,Venom GT
+953,Venom F5
+954,VelociRaptor
+955,Tuatara
+956,Ultimate
+957,Town
+958,Chrysler  200C
+959,Chrysler  Sebring
+960,Prowler
+961,Chrysler 200
+962,Chrysler Delta
+963,Chrysler Ypsilon
+964,Chrysler 700C
+965,Chrysler 300C SRT
+968,Discovery
+969,Range Rover
+970,Range Rover hybrid
+972,Range Rover Sport
+973,Freelander
+974,Defender
+975,Land Rover DC100
+976,‘Vision
+977,Feiling Pickup
+978,Feiteng C5
+979,Cheetah CS6
+980,Cheetah CS7
+981,Cheetah Q6
+986,Estoque
+988,Urus
+989,Veneno
+990,Egoista
+998,Maserati GT
+1004,Forte
+1005,KIA K2 sedan
+1006,KIA K3
+1007,KIA K3S
+1008,KIA K4
+1009,KIA K5
+1010,RIO
+1011,Cerato
+1012,Sportage
+1013,Soul
+1014,Sportage R
+1015,KIA K2 hatchback
+1016,Borrego
+1023,KIA venga
+1025,KIA GT
+1026,KIA Picanto
+1027,KIA Ceed
+1028,KIA Trackster
+1029,KIA K9
+1030,KIA Forte
+1031,KIA Provo
+1032,KIA CUB
+1033,KIA Optima
+1034,KIA Cross GT
+1035,KIA Ray EV
+1036,KIA Niro
+1037,GT4 Stinger
+1038,Sedona
+1049,Legacy
+1051,Forester
+1052,Subaru BRZ
+1053,Subaru XV
+1054,Impreza hatchback
+1055,Impreza sedan
+1056,Trezia
+1057,Viziv
+1063,MAXUS V80xs
+1065,D-MAX
+1066,C2 Cross
+1067,c-Elysee sedan
+1068,Triomphe
+1069,Elysee
+1070,Quatre Cross
+1071,Quatre hatchback
+1072,Quatre sedan
+1073,Citroen C2
+1074,Citroen C4L
+1075,Citroen C5
+1080,C3 Picasso
+1081,C-Zero
+1082,Citroen C-Elysee
+1083,Technospace
+1084,Lacoste
+1086,REVOLTe
+1087,Survolt
+1088,Tubik
+1089,Citroen C-Crosser
+1090,Citroen GQ
+1111,Scion xD
+1119,Zonda
+1120,Huayra
+1124,Sagaris
+1130,Lcruiser
+1131,Prado
+1132,Prius
+1133,Reiz
+1134,Vios
+1135,Huaguan
+1137,Venza
+1138,Alphard
+1139,Toyota 4 Rinner
+1140,Toyota 86
+1145,Saina
+1146,Toyota IQ
+1147,Toyota Aygo
+1148,Avensis
+1149,Toyota Verso
+1150,Toyota MR2
+1151,Toyota FT-HS
+1152,Undra
+1153,Toyota Auris
+1154,WISH
+1155,Toyota FT-86
+1159,Toyota i-Road
+1161,Toyota FCV-R
+1165,丰田Avalon
+1166,Toyota FT-1
+1167,Toyota Matrix
+1168,Toyota Urban Cruiser
+1169,Toyota 1X
+1171,Toyota FT-EV
+1174,Yuejia
+1175,Toyota FCV
+1176,YARiS L
+1177,Camry
+1178,Camry hybrid
+1179,Levin
+1180,Yaris
+1181,EZ
+1182,EZ Crossover
+1183,Highlander
+1184,Fengjing
+1185,Fengjing G7
+1186,Fengjing Kuaiyun
+1187,Mengpaike E
+1188,Mengpaike S
+1189,Midi
+1190,Fukuda
+1191,Tunland
+1192,Tansuozhe
+1193,Tansuozhe III
+1194,Xiaochaoren
+1195,Xiongshi
+1196,Xiongshi F16
+1197,Tansuozhe II
+1198,Qoros 3
+1199,Quros 9
+1200,Quros 3 hatchback
+1201,E Mei
+1208,Caiyun 500
+1216,GP150
+1217,Galue
+1221,Fumeilai VS
+1222,Haifuxing
+1223,Haima 3
+1224,Haima M3
+1225,Haima M8
+1226,Haima S5
+1227,Haima S7
+1228,Haimaqishi
+1229,Haydo
+1230,Premacy
+1231,Qiubite
+1232,Haima M6
+1233,Family M5
+1234,Baolige
+1235,Lusheng E70
+1236,Shengdafei
+1237,Tekala
+1242,Hong Qi SUV
+1243,Haijing
+1244,Haiyue
+1245,Yisitanna
+1246,Geely GC7
+1247,Geely GX2
+1249,Geely SC3
+1251,Geely SC6
+1252,Geely SC7
+1253,Geely SX7
+1254,Geely TX4
+1255,King Kong CROSS
+1256,King Kong hatchback
+1257,King Kong sedan
+1260,Classic Imperial hatchback
+1261,Classic Imperial sedan
+1262,Imperial hatchback
+1263,Imperial sedan
+1264,Panda
+1265,Panda CROSS
+1266,Vision
+1268,Ziyoujian
+1271,Geely GT
+1272,Geely GE
+1273,Geely EK-2
+1287,Heyue A30
+1288,Heyue RS
+1289,Heyue iEV
+1291,Ruifeng M3
+1292,Ruifeng M5
+1293,Ruifeng S3
+1311,Kaiwei
+1312,New Yusheng S350
+1313,Yuhu
+1321,Jindian
+1322,Leilong
+1323,New Haishi
+1324,Zhishang S30
+1325,Dalishen
+1326,Lexus CT
+1327,Lexus ES hybrid
+1328,Lexus GS
+1329,Lexus GS hybrid
+1330,Lexus GX
+1331,Lexus IS
+1332,Lexus IS convertible
+1333,Lexus LF-A
+1334,Lexus LS
+1335,Lexus LS hybrid
+1336,Lexus LX
+1337,Lexus RC
+1339,Lexus RX hybrid
+1340,Lexus LF-Xh
+1341,Lexus HS
+1342,Lexus LF-LC
+1352,Lifan 530
+1353,Lifan 620
+1354,Lifan 630
+1355,Lifan 720
+1357,Lifan X60
+1359,Lifan 320
+1364,Ghost
+1369,Mazda CX7
+1371,Ruiyi coupe
+1373,ATENZA
+1383,Axela hatchback
+1384,Mazda 2
+1385,Mazda 2 sedan
+1386,Mazda 3
+1387,Mazda 3 Xingcheng hatchback
+1388,Mazda 3 Xingcheng sedan
+1389,Mazda CX-5
+1390,Axela sedan
+1392,Acura ILX
+1393,Acura MDX
+1394,Acura RDX
+1395,Acura RL
+1396,Acura RLX
+1398,Acura ZDX
+1399,Acura NSX
+1400,Acura SUV-X
+1401,Acura TLX
+1402,Acura ILX hybrid
+1403,Eastar
+1404,Eastar Cross
+1405,Fulwin 2 hatchback
+1406,Fulwin 2 sedan
+1407,Chrey A1
+1408,Chrey A3 hatchback
+1409,Chrey A3 sedan
+1410,Chrey A5
+1412,Chrey E5
+1413,Chrey QQ
+1416,Chrey X1
+1417,Chrey Aika
+1418,Cowin 1
+1419,Cowin 2
+1420,Cowin 3
+1421,Cowin 5
+1424,Tiggo 5
+1425,Chrey M14
+1426,Chrey @ANT
+1427,Chrey TX
+1428,Arrizo 7
+1429,Riich G3
+1430,Riich G6
+1431,Riich M1
+1432,Riich M5
+1434,smart fortwo
+1435,smart for-us
+1436,smart forjeremy
+1437,smart forstars
+1438,smart forfour
+1439,smart fortwo electric
+1441,Nobel
+1442,Fujia
+1443,Volvo C30
+1444,Volvo S60
+1445,Volvo V40
+1446,Volvo V40 CrossCountry
+1447,Volvo V60
+1448,Volvo XC60
+1450,Volvo S80
+1451,Volvo V50
+1452,Volvo V70
+1453,Volvo XC70
+1454,Universe
+1456,Air Motion
+1457,Volvo Coupe
+1458,Volvo XC Coupe
+1459,ESTATE
+1460,Volvo C70
+1462,Volvo S80L
+1463,Volvo S60L
+1464,Volvo XC Classic
+1466,Wiesmann Roadster
+1467,Wiesmann Spyder
+1468,Wiesmann GT
+1470,Seat IBL
+1471,Seat LEON
+1472,Ibiza
+1473,Ibiza estate
+1474,Seat ALTEA
+1475,Seat EXEO
+1476,Seat IBX
+1477,Seat Mii
+1478,Seat IBE
+1479,Mustang F16
+1480,Mustang F99
+1481,Mustang A-MPV
+1482,Mustang T70
+1483,Mustang M31D
+1485,Mustang F12
+1486,MiTo
+1487,159
+1488,Giulietta
+1489,4C
+1490,2uettottanta
+1491,TZ3
+1492,Disco Volante
+1494,8C
+1503,AC Schnitzer MINI
+1504,AC Schnitzer X1
+1509,Atlantic
+1511,Latigo
+1515,Lancia Thema
+1516,Lancia Voyager
+1517,Lancia Ypsilon
+1518,Lancia Delta
+1519,Lancia Stratos
+1520,Youjin
+1521,Youya
+1522,Youyou
+1523,Youpai
+1524,Yousheng
+1526,Cultus
+1527,Alivio
+1528,Tianyu SX4 hatchback
+1529,Tianyu SX4 sedan
+1530,Tianyushangyue
+1531,Yuyan
+1534,Kazishi
+1535,Swift
+1536,S-CROSS abroad version
+1542,X-Lander
+1543,Jimny
+1544,Bei Douxing
+1545,Liana A6 hatchback
+1546,Liana A6 sedan
+1547,Liana hatchback
+1548,Liana sedan
+1549,Splash
+1550,Landy
+1551,Linian S1
+1552,Elise
+1553,Exige
+1554,Elan
+1556,Eterne
+1557,Evora
+1558,MG3 SW
+1559,MG3 Xross
+1560,MG5
+1561,MG6 sedan
+1562,MG6 hatchback
+1563,MG7
+1564,Icon
+1565,MG CS
+1566,MG3
+1567,McLaren 12C
+1568,McLaren P1
+1569,McLaren X-1
+1570,McLaren 650S
+1571,Antara
+1572,Zafira
+1573,GTC convertible
+1574,GTC hatchback
+1575,GTC sedan
+1576,Insignia
+1577,Opel AMPERA
+1578,Opel CORSA
+1579,Opel Adam
+1587,Venucia R50
+1588,Venucia R50X
+1589,Venucia ViWa
+1590,Venucia D50
+1591,ASX
+1592,Pajero Sport
+1593,Pajero
+1594,Grandis
+1595,Eclipse
+1597,Mitsubishi i
+1598,Mitsubishi Colt
+1599,ASX abroad version
+1600,Global Small
+1601,Mirage
+1602,Mitsubishi G4
+1603,Endeavor
+1604,Mitsubishi CA-MiEV
+1605,Mitsubishi GR-HEV
+1606,Mitsubishi PX-MiEV
+1607,Mitsubishi XR-PHEV
+1608,eK Space
+1609,Outlander abroad version
+1610,Mitsubishi Fortis
+1611,Mitsubishi Zinger
+1612,Mitsubishi Lancer
+1613,Mitsubishi Lancer EX
+1614,Mitsubishi Galant
+1615,SAAB D50
+1616,SAAB D70
+1617,SAAB D60
+1618,Spyker C8
+1619,Spyker C12
+1620,Spyker B6
+1623,Wulingzhiguang
+1624,Xingwang
+1627,AVEO hatchback
+1629,Epica
+1630,Cruze sedan
+1631,Cruze hatchback
+1632,Captiva
+1633,Aveo
+1634,Lova
+1635,Malibu
+1636,Sail hatchback
+1637,Sail sedan
+1639,Aveo sedan
+1640,Volt
+1641,Spark
+1643,CHEVY Beat
+1644,CHEVY Orlando
+1645,Sonic
+1649,Silverado
+1650,CHEVY SS
+1651,Agile
+1652,Caprice
+1653,Colorado
+1654,Equinox
+1655,Impala
+1656,TrailBlazer
+1657,Cobalt
+1659,CHEVY Miray
+1660,CHEVY Onix
+1661,CHEVY Tahoe
+1662,CHEVY Tru
+1663,Express
+1664,Suburban
+1665,City Express
+1667,Kaisheng 2
+1668,Zhonghua H220
+1669,Zhonghua H320
+1670,Zhonghua H330
+1671,Zhonghua H530
+1672,Zhonghua V5
+1673,Zhonghua Junjie
+1675,Zhonghua Junjie FRV
+1676,Zhonghua Junjie FSV
+1677,Zhonghua Junjie Wagon
+1680,Brabus S Class
+1681,Brabus GL Class
+1682,Brabus M Class
+1683,Brabus smart fortwo
+1684,Brabus CLS Class
+1685,Brabus A Class
+1686,Brabus B Class
+1687,Brabus CL Class
+1688,Brabus G Class
+1690,Brabus SLS Class
+1691,Brabus SL Class
+1692,Brabus E Class
+1698,Grandtiger TUV
+1699,Grandtiger abroad version
+1700,Quick
+1701,Quick V5
+1702,Quick V7
+1703,Zxauto C3
+1704,GreenWheel
+1705,Grandtiger SUV
+1706,Qijian A9
+1707,Carlsson C
+1712,Shouwang

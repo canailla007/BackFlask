@@ -1,9 +1,8 @@
 # data_loader.py
-
+from scipy.io import loadmat
 from pathlib import Path
 import pandas as pd
 import json
-from scipy.io import loadmat
 from models import Car
 
 # Rutas relativas basadas en la ubicación del script
@@ -23,12 +22,6 @@ COLS = [
     'type_id', 'transmission', 'fuel_type', 'horsepower', 'price'
 ]
 
-# Overrides de nombres de marcas
-BRAND_OVERRIDES = {
-    'Benz': 'Mercedes-Benz'
-}
-
-
 def load_all_cars():
     # 1) Leer atributos (omitir cabecera)
     df = pd.read_csv(
@@ -36,36 +29,26 @@ def load_all_cars():
         skiprows=1, header=None
     )
 
-    # 2) Leer marcas y modelos desde el .mat
-    mat = loadmat(str(MAT_PATH), squeeze_me=True)
-    makes = [str(x) for x in mat['make_names']]
-    models = [str(x) for x in mat['model_names']]
+    # 2) Leer marcas y modelos desde el .mat (ahora completo)
+    mat    = loadmat(str(MAT_PATH), squeeze_me=True)
+    makes  = [str(x).strip() for x in mat['make_names']]
+    models = [str(x).strip() for x in mat['model_names']]
 
-    # 2.1) Aplicar overrides a marcas (p.ej. 'Benz' a 'Mercedes-Benz')
-    makes = [BRAND_OVERRIDES.get(m, m) for m in makes]
-
-    # 2.2) Cargar mapeo de model_id a make_id
+    # 3) Cargar mapeo de model_id a make_id
     with open(str(MAP_PATH), 'r', encoding='utf-8') as f:
         model_make_map = json.load(f)
 
-    # 3) Filtrar solo model_id válidos
+    # 4) Filtrar solo model_id válidos (entre 1 y len(models))
     df = df[df['model_id'].between(1, len(models))]
 
     cars = []
     for _, row in df.iterrows():
         model_id = int(row['model_id'])
-        # Obtener make_id desde el mapa
-        make_id = int(model_make_map.get(str(model_id), 0))
+        make_id  = int(model_make_map.get(str(model_id), 0))
 
-        # Determinar brand por make_id
-        if 1 <= make_id <= len(makes):
-            brand = makes[make_id - 1]
-        else:
-            brand = 'Unknown'
-
-        # Determinar nombre de modelo
-        idx = model_id - 1
-        model_name = models[idx] if 0 <= idx < len(models) else ''
+        # Obtener nombre real de la marca y del modelo
+        brand      = makes[make_id-1] if 1 <= make_id <= len(makes) else 'Unknown'
+        model_name = models[model_id-1] if 1 <= model_id <= len(models) else ''
 
         car = Car(
             model_id    = model_id,
